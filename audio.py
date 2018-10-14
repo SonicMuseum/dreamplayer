@@ -6,7 +6,7 @@ from discord.ext import commands
 from discord.ext.commands import Bot
 
 
-bot=commands.Bot(command_prefix='sonic.')
+bot=commands.Bot(command_prefix='tails.')
 
 from discord import opus
 OPUS_LIBS = ['libopus-0.x86.dll', 'libopus-0.x64.dll',
